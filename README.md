@@ -2,7 +2,7 @@
 LAB PROGRAMS
 # FCFS progran status
 ##program files of FCFS
-![program file](EXPERIMENT1A/fcfs.c)
+![program file](EXPERIMENT1A/fcfs1.c)
 ![program_file](EXPERIMENT1A/PROGRAM1A.jpeg)
 
 ##sample input and output of FCFS
