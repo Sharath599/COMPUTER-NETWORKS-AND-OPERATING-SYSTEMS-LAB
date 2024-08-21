@@ -48,7 +48,7 @@ LAB PROGRAMS
 # MVT program status
 
 ##program files of MVT
-![program file](EXPERIMENT10/MVTcodde.c)
+![program file](EXPERIMENT10/MVTcode.c)
 ![program_file](EXPERIMENT10/MVT_code_599.jpeg)
 
 ##sample input and output of Priority
