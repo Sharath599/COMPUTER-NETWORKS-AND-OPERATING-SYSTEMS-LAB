@@ -44,3 +44,28 @@ LAB PROGRAMS
 
 ##tested input and output of RoundRobin
 ![tested input](EXPERIMENT1D/prority_eo_599.png)
+
+# MVT program status
+
+##program files of MVT
+![program file](EXPERIMENT10/MVTcodde.c)
+![program_file](EXPERIMENT10/MVT_code_599.jpeg)
+
+##sample input and output of Priority
+![sample input](EXPERIMENT10/MVT_IO1_599.jpeg)
+
+##tested input and output of RoundRobin
+![tested input](EXPERIMENT10/MVT_EO_599.jpeg)
+
+
+# MFT program status
+
+##program files of MVT
+![program file](EXPERIMENT10/MFTcode.c)
+![program_file](EXPERIMENT10/MFT_code_599.jpeg)
+
+##sample input and output of Priority
+![sample input](EXPERIMENT10/MFT_IO_599.jpeg)
+
+##tested input and output of RoundRobin
+![tested input](EXPERIMENT10/MFT_EO_599.jpeg)
