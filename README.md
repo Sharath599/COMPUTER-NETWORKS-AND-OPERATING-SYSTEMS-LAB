@@ -42,7 +42,7 @@ LAB PROGRAMS
 ##sample input and output of Priority
 ![sample input](EXPERIMENT1D/prority_io_599.png)
 
-##tested input and output of RoundRobin
+##tested input and output of Priority
 ![tested input](EXPERIMENT1D/prority_eo_599.png)
 
 # MVT program status
@@ -51,33 +51,33 @@ LAB PROGRAMS
 ![program file](EXPERIMENT10/MVTcode.c)
 ![program_file](EXPERIMENT10/MVT_code_599.jpeg)
 
-##sample input and output of Priority
+##sample input and output of MVT
 ![sample input](EXPERIMENT10/MVT_IO1_599.jpeg)
 
-##tested input and output of RoundRobin
+##tested input and output of MVT
 ![tested input](EXPERIMENT10/MVT_EO_599.jpeg)
 
 
 # MFT program status
 
-##program files of MVT
+##program files of MFT
 ![program file](EXPERIMENT10/MFTcode.c)
 ![program_file](EXPERIMENT10/MFT_code_599.jpeg)
 
-##sample input and output of Priority
+##sample input and output MFT
 ![sample input](EXPERIMENT10/MFT_IO_599.jpeg)
 
-##tested input and output of RoundRobin
+##tested input and output of MFT
 ![tested input](EXPERIMENT10/MFT_EO_599.jpeg)
 
 # Producer&Consumer program status
 
-##program files of MVT
+##program files of Producer&Consumer
 ![program file](EXPERIMENT10P&C/Producer&Consumerfile.c)
 ![program_file](EXPERIMENT10P&C/Producer&Consumer_code_599.jpeg)
 
-##sample input and output of Priority
+##sample input and output of Producer&Consumer
 ![sample input](EXPERIMENT10P&C/Producer&Consumer_IO_599.jpeg)
 
-##tested input and output of RoundRobin
+##tested input and output of Producer&Consumer
 ![tested input](EXPERIMENT10P&C/Producer&Consumer_EO_599.jpeg)
