@@ -81,3 +81,15 @@ LAB PROGRAMS
 
 ##tested input and output of Producer&Consumer
 ![tested input](EXPERIMENT10P&C/Producer&Consumer_EO_599.jpeg)
+
+# Dining Philosopher program status
+
+##program files of Dining Philosopher
+![program file](EXPERIMENT11/DiningPhilosopherFile.c)
+![program_file](EXPERIMENT11/DiningPhilosopher_code_599.jpeg)
+
+##sample input and output of Dining Philosopher
+![sample input](EXPERIMENT11/DiningPhilosopher_IO_599.jpeg)
+
+##tested input and output of Dining Philosopher
+![tested input](EXPERIMENT11/DiningPhilosopher_EO_599.jpeg)
