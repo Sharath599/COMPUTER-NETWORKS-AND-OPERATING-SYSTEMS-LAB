@@ -129,3 +129,39 @@ LAB PROGRAMS
 
 ##tested input and output of FirstFit
 ![tested input](EXPERIMENT13/FirstFit_EO_599.jpeg)
+
+# FIFO Page Replacement Algorithm program status
+
+##program files of FIFO Page Replacement Algorithm
+![program file](EXPERIMENT14/FifoPageFile.c)
+![program_file](EXPERIMENT14/FifoPage_code_599.jpeg)
+
+##sample input and output of FIFO Page Replacement Algorithm
+![sample input](EXPERIMENT14/FifoPage_IO_599.jpeg)
+
+##tested input and output of FIFO Page Replacement Algorithm
+![tested input](EXPERIMENT14/FifoPage_EO_599.jpeg)
+
+# LRU Page Replacement Algorithm program status
+
+##program files of LRU Replacement Algorithm
+![program file](EXPERIMENT14/LruPageFile.c)
+![program_file](EXPERIMENT14/LruPage_code_599.jpeg)
+
+##sample input and output of LRU Page Replacement Algorithm
+![sample input](EXPERIMENT14/LruPage_IO_599.jpeg)
+
+##tested input and output of LRU Page Replacement Algorithm
+![tested input](EXPERIMENT14/LruPage_EO_599.jpeg)
+
+# Optimal Page Replacement Algorithm program status
+
+##program files of  Optimal Replacement Algorithm
+![program file](EXPERIMENT14/OptimalPageFile.c)
+![program_file](EXPERIMENT14/OptimalPage_code_599.jpeg)
+
+##sample input and output of Optimal Page Replacement Algorithm
+![sample input](EXPERIMENT14/OptimalPage_IO_599.jpeg)
+
+##tested input and output of Optimal Page Replacement Algorithm
+![tested input](EXPERIMENT14/OptimalPage_EO_599.jpeg)
