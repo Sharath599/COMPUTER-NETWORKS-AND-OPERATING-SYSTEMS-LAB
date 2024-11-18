@@ -69,3 +69,15 @@ LAB PROGRAMS
 
 ##tested input and output of RoundRobin
 ![tested input](EXPERIMENT10/MFT_EO_599.jpeg)
+
+# Producer&Consumer program status
+
+##program files of MVT
+![program file](EXPERIMENT10P&C/Producer&Consumerfile.c)
+![program_file](EXPERIMENT10P&C/Producer&Consumer_code_599.jpeg)
+
+##sample input and output of Priority
+![sample input](EXPERIMENT10P&C/Producer&Consumer_IO_599.jpeg)
+
+##tested input and output of RoundRobin
+![tested input](EXPERIMENT10P&C/Producer&Consumer_EO_599.jpeg)
