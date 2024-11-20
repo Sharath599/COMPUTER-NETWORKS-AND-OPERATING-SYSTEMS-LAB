@@ -225,3 +225,27 @@ LAB PROGRAMS
 
 ##tested input and output of Indexed File Allocation
 ![tested input](EXPERIMENT16/Linked_EO_599.jpeg)
+
+# Dead Lock Avoidance program status
+
+##program files of Dead Lock Avoidance
+![program file](EXPERIMENT17/DeadLockAvoidanceFile.c)
+![program_file](EXPERIMENT17/DeadLockAvoidance_code_599.jpeg)
+
+##sample input and output of Dead Lock Avoidance
+![sample input](EXPERIMENT17/DeadLockAvoidance_IO_599.jpeg)
+
+##tested input and output of Dead Lock Avoidance
+![tested input](EXPERIMENT17/DeadLockAvoidance_EO_599.jpeg)
+
+# Dead Lock Prevention program status
+
+##program files of Dead Lock Prevention
+![program file](EXPERIMENT17/DeadLockPreventionFile.c)
+![program_file](EXPERIMENT17/DeadLockPrevention_code_599.jpeg)
+
+##sample input and output of Dead Lock Prevention
+![sample input](EXPERIMENT17/DeadLockPrevention_IO_599.jpeg)
+
+##tested input and output of Dead Lock Prevention
+![tested input](EXPERIMENT17/DeadLockPrevention_EO_599.jpeg)
