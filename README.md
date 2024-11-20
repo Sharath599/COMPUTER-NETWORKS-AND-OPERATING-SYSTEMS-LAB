@@ -189,3 +189,39 @@ LAB PROGRAMS
 
 ##tested input and output of SingleLevelDirectory
 ![tested input](EXPERIMENT15/SecondLevelDirectory_EO_599.jpeg)
+
+# Sequential File Allocation program status
+
+##program files of Sequential File Allocation
+![program file](EXPERIMENT16/SequentialFile.c)
+![program_file](EXPERIMENT16/Sequential_code_599.jpeg)
+
+##sample input and output of Sequential File Allocation
+![sample input](EXPERIMENT16/Sequential_IO_599.jpeg)
+
+##tested input and output of Sequential File Allocation
+![tested input](EXPERIMENT16/Sequential_EO_599.jpeg)
+
+# Indexed File Allocation program status
+
+##program files of Indexed File Allocation
+![program file](EXPERIMENT16/IndexedFile.c)
+![program_file](EXPERIMENT16/Indexed_code_599.jpeg)
+
+##sample input and output of Indexed File Allocation
+![sample input](EXPERIMENT16/Indexed_IO_599.jpeg)
+
+##tested input and output of Indexed File Allocation
+![tested input](EXPERIMENT16/Indexed_EO_599.jpeg)
+
+# Linked File Allocation program status
+
+##program files of Indexed File Allocation
+![program file](EXPERIMENT16/LinkedFile.c)
+![program_file](EXPERIMENT16/Linked_code_599.jpeg)
+
+##sample input and output of Indexed File Allocation
+![sample input](EXPERIMENT16/Linked_IO_599.jpeg)
+
+##tested input and output of Indexed File Allocation
+![tested input](EXPERIMENT16/Linked_EO_599.jpeg)
