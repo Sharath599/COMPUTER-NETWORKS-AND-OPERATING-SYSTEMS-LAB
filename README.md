@@ -249,3 +249,39 @@ LAB PROGRAMS
 
 ##tested input and output of Dead Lock Prevention
 ![tested input](EXPERIMENT17/DeadLockPrevention_EO_599.jpeg)
+
+# FCFS Disk Scheduling program status
+
+##program files of FCFS Disk Scheduling
+![program file](EXPERIMENT18/FcfsFile.c)
+![program_file](EXPERIMENT18/FcfsDisk_code_599.jpeg)
+
+##sample input and output of FCFS Disk Scheduling
+![sample input](EXPERIMENT18/FcfsDisk_IO_599.jpeg)
+
+##tested input and output of FCFS Disk Scheduling
+![tested input](EXPERIMENT18/FcfsDisk_EO_599.jpeg)
+
+# SCAN Disk Scheduling program status
+
+##program files of Scan Disk Scheduling
+![program file](EXPERIMENT18/ScanFile.c)
+![program_file](EXPERIMENT18/ScanDisk_code_599.jpeg)
+
+##sample input and output of Scan Disk Scheduling
+![sample input](EXPERIMENT18/Scan_IO_599.jpeg)
+
+##tested input and output of Scan Disk Scheduling
+![tested input](EXPERIMENT18/Scan_EO_599.jpeg)
+
+# C SCAN Disk Scheduling program status
+
+##program files of C Scan Disk Scheduling
+![program file](EXPERIMENT18/C_ScanFile.c)
+![program_file](EXPERIMENT18/CScan_code_599.jpeg)
+
+##sample input and output of C Scan Disk Scheduling
+![sample input](EXPERIMENT18/CScan_IO_599.jpeg)
+
+##tested input and output of C Scan Disk Scheduling
+![tested input](EXPERIMENT18/CScan_EO_599.jpeg)
