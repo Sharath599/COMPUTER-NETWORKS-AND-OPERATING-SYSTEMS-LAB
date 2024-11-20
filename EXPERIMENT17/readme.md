@@ -1,3 +1,5 @@
+#DEAD LOCK AVOIDANCE
+
 # program file
 ![program file](DeadLockAvoidance_code_599.jpeg)
 ![program file](DeadLockAvoidanceFile.c)
@@ -7,6 +9,8 @@
 
 # tested output
 ![tested output](DeadLockAvoidance_EO_599.jpeg)
+
+#DEAD LOCK PREVENTION
 
 # program file
 ![program file](DeadLockPrevention_code_599.jpeg)
